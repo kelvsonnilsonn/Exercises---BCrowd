@@ -1,7 +1,7 @@
 #include <stdio.h>
 //
 int main(){
-    double wage, p;
+    double wage;
 
     scanf("%lf", &wage);
 
