@@ -4,7 +4,7 @@ int main(){
     double a;
     int count = 0;
 
-    for(int i=0; i<6; i++){
+    for(int  = 0; i < 6; i++){
         scanf("%lf", &a);
         if(a > 0) count++;
     }

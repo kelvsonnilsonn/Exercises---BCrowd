@@ -30,5 +30,5 @@ int main () {
     
     printf("%d dia(s)\n%d hora(s)\n%d minuto(s)\n%d segundo(s)\n", d1, h1, m1, s1);
     
-
+    return 0;
 }

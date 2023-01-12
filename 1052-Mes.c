@@ -7,7 +7,7 @@ int main(){
     int chosen, i;
     scanf("%d", &chosen);
 
-    for(i=0; i<12; i++){
+    for(i = 0; i < 12; i++){
         if(chosen == months_id[i]) break;
     }
 
